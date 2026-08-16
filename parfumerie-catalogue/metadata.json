@@ -1,6 +1,0 @@
-{
-  "name": "Parfumerie Catalogue",
-  "description": "AromaBoutik — Магазин изысканных ароматов. Элегантный онлайн-каталог селективной и нишевой парфюмерии с консультацией и оформлением заказов в WhatsApp.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
